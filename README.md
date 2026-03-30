@@ -27,7 +27,7 @@ A complete full-stack job portal where users can register, login, search and app
 
 ```bash
 # Clone the repo
-# git clone https://github.com/priyanshu12-stack/mern_project_job_portal.git
+git clone https://github.com/kripanshu877/job-portal.git
 
 # Go to frontend folder
 cd frontend
@@ -45,8 +45,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-<!-- https://mern-project-job-portal.onrender.com -->
-
+https://job-portal-tau-inky.vercel.app/
 
 ---
 
